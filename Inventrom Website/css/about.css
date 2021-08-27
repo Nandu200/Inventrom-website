@@ -1,0 +1,24 @@
+.about_us{
+	color: #000000;
+	text-align: center;
+	padding: 0% 13% 0% 13%;
+}
+
+.about_img{
+	width: 45%;
+	height: 100%;
+	display: inline-block;
+	margin: 2%;
+}
+
+.about_img img{
+	width: 100%;
+    margin: 3% 0% 0% 2%;
+    padding-left: 0px;
+}
+.about_img span{
+    margin-left: 1%;
+	padding-right: 5%;
+	color: #000000;
+	float: left;
+}
